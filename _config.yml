@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "de-CH"
-title                    : "my universe"
+title                    : "My universe"
 title_separator          : "-"
 name                     : "Chris Gross"
 description              : "My personal website."
